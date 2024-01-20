@@ -1,0 +1,42 @@
+@page
+{
+  size:A3;
+  margin: 0;
+}
+
+#print-btn
+{
+  display: none;
+  visibility: none;
+}
+
+#navbar{
+  display: none;
+  visibility: none;
+}
+#pdfPrintheader {
+  display: block; /* Display the element when printing */
+}
+
+
+#pdfDisplay{
+  display:block;
+
+}
+
+#commentHeader{
+  display: none;
+  visibility: none;
+}
+
+
+#commentcontent{
+ display: none;
+  visibility: none;
+}
+
+#tablecontent{
+  display: none;
+  visibility: none;
+ }
+
